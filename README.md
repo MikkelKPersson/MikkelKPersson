@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I love Color, Cinema and small weird applications!
+
+- 🔭 I’m currently working on an android based directors viewfinder app & a generative art installation
+- 🌱 I’m currently learning Machine learning, interactive narratives & real time computergraphics at Aalborg University CPH
+- ⚡ Fun fact: Every couple of years im doing a naked art calender with some good friends to give for chirstmas to friends and familiy!
+
 <!--
 **MikkelKPersson/MikkelKPersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
